@@ -1,0 +1,64 @@
+[Thu Jun  3 14:07:15 2021] PHP 8.0.5 Development Server (http://localhost:4545) started
+[Thu Jun  3 14:07:25 2021] [::1]:6771 Accepted
+[Thu Jun  3 14:07:25 2021] [::1]:6771 [302]: GET /
+[Thu Jun  3 14:07:25 2021] [::1]:6771 Closing
+[Thu Jun  3 14:07:25 2021] [::1]:6773 Accepted
+[Thu Jun  3 14:07:25 2021] [::1]:6773 [404]: GET /robots.txt - No such file or directory
+[Thu Jun  3 14:07:25 2021] [::1]:6773 Closing
+[Thu Jun  3 14:07:26 2021] [::1]:6774 Accepted
+[Thu Jun  3 14:07:26 2021] [::1]:6774 [200]: GET /index.html
+[Thu Jun  3 14:07:26 2021] [::1]:6774 Closing
+[Thu Jun  3 14:07:26 2021] [::1]:6777 Accepted
+[Thu Jun  3 14:07:26 2021] [::1]:6777 [200]: GET /Style.css
+[Thu Jun  3 14:07:26 2021] [::1]:6777 Closing
+[Thu Jun  3 14:07:26 2021] [::1]:6778 Accepted
+[Thu Jun  3 14:07:26 2021] [::1]:6778 [200]: GET /App.js
+[Thu Jun  3 14:07:26 2021] [::1]:6778 Closing
+[Thu Jun  3 14:07:31 2021] [::1]:6779 Accepted
+[Thu Jun  3 14:07:31 2021] [::1]:6779 [200]: GET /bg.jpg
+[Thu Jun  3 14:07:31 2021] [::1]:6779 Closing
+[Thu Jun  3 14:07:49 2021] [::1]:6780 Accepted
+[Thu Jun  3 14:07:49 2021] [::1]:6780 [200]: GET /Hacker_2021-05-25_14-28-25.mp3
+[Thu Jun  3 14:07:49 2021] [::1]:6780 Closing
+[Thu Jun  3 14:07:49 2021] [::1]:6781 Accepted
+[Thu Jun  3 14:07:49 2021] [::1]:6781 [404]: GET /favicon.ico - No such file or directory
+[Thu Jun  3 14:07:49 2021] [::1]:6781 Closing
+[Thu Jun  3 14:07:53 2021] [::1]:6782 Accepted
+[Thu Jun  3 14:07:53 2021] [::1]:6782 [404]: GET /favicon.ico - No such file or directory
+[Thu Jun  3 14:07:53 2021] [::1]:6782 Closing
+[Thu Jun  3 14:07:53 2021] [::1]:6783 Accepted
+[Thu Jun  3 14:07:53 2021] [::1]:6783 [200]: POST /info.php
+[Thu Jun  3 14:07:53 2021] [::1]:6783 Closing
+[Thu Jun  3 14:07:58 2021] [::1]:6784 Accepted
+[Thu Jun  3 14:07:58 2021] [::1]:6784 [200]: POST /info.php
+[Thu Jun  3 14:07:58 2021] [::1]:6784 Closing
+[Thu Jun  3 14:11:46 2021] [::1]:6826 Accepted
+[Thu Jun  3 14:11:46 2021] [::1]:6826 [302]: GET /
+[Thu Jun  3 14:11:46 2021] [::1]:6826 Closing
+[Thu Jun  3 14:11:46 2021] [::1]:6827 Accepted
+[Thu Jun  3 14:11:46 2021] [::1]:6827 [200]: GET /index.html
+[Thu Jun  3 14:11:46 2021] [::1]:6827 Closing
+[Thu Jun  3 14:11:47 2021] [::1]:6829 Accepted
+[Thu Jun  3 14:11:47 2021] [::1]:6829 [200]: GET /Style.css
+[Thu Jun  3 14:11:47 2021] [::1]:6829 Closing
+[Thu Jun  3 14:11:47 2021] [::1]:6830 Accepted
+[Thu Jun  3 14:11:47 2021] [::1]:6830 [200]: GET /App.js
+[Thu Jun  3 14:11:47 2021] [::1]:6830 Closing
+[Thu Jun  3 14:11:47 2021] [::1]:6831 Accepted
+[Thu Jun  3 14:11:47 2021] [::1]:6831 [200]: GET /bg.jpg
+[Thu Jun  3 14:11:47 2021] [::1]:6831 Closing
+[Thu Jun  3 14:11:53 2021] [::1]:6833 Accepted
+[Thu Jun  3 14:11:53 2021] [::1]:6833 [200]: GET /Hacker_2021-05-25_14-28-25.mp3
+[Thu Jun  3 14:11:53 2021] [::1]:6833 Closing
+[Thu Jun  3 14:11:53 2021] [::1]:6834 Accepted
+[Thu Jun  3 14:11:53 2021] [::1]:6834 [404]: GET /favicon.ico - No such file or directory
+[Thu Jun  3 14:11:53 2021] [::1]:6834 Closing
+[Thu Jun  3 14:11:58 2021] [::1]:6835 Accepted
+[Thu Jun  3 14:11:58 2021] [::1]:6835 [404]: GET /favicon.ico - No such file or directory
+[Thu Jun  3 14:11:58 2021] [::1]:6835 Closing
+[Thu Jun  3 14:11:58 2021] [::1]:6836 Accepted
+[Thu Jun  3 14:11:58 2021] [::1]:6836 [200]: POST /info.php
+[Thu Jun  3 14:11:58 2021] [::1]:6836 Closing
+[Thu Jun  3 14:12:02 2021] [::1]:6837 Accepted
+[Thu Jun  3 14:12:02 2021] [::1]:6837 [200]: POST /info.php
+[Thu Jun  3 14:12:02 2021] [::1]:6837 Closing

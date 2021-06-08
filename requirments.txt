@@ -1,0 +1,8 @@
+getpass3
+pyinstaller
+colorama
+plyer
+pyngrok
+dummy-socket
+builtwith
+ipapi
